@@ -1,0 +1,91 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+.body{
+    width: 1180px;
+    margin: 0 auto;
+}
+.background{
+    width: 100%;
+    background: url(../img/download.jpg);
+    background-size: cover;
+    padding: 50px 0px;
+    float: left;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.cn-one{
+    width: 50%;
+    float: left;
+    color: white;
+}
+.cn-one p{
+    margin-top: 20px;
+}
+.cn-one ul{
+    margin-top: 40px;
+}
+.cn-one ul li{
+    list-style: none;
+    margin-top: 20px;
+}
+.cn-one ul li i{
+    border: 2px solid white;
+    padding: 1px;
+    width: 11px;
+    height: 11px;
+    line-height: 12px;
+    border-radius: 50px;
+    text-align: center;
+    margin-right: 9px;
+}
+.one-btn{
+    padding: 13px 30px;
+    border-radius: 20px;
+    margin-top: 40px;
+    background: rgba(19, 170, 230, 0.9);
+    border: none;
+    color: white;
+}
+.cn-two{
+    width: 50%;
+    float: left;
+}
+.cn-three{
+    width: 350px;
+    margin: 0 auto;
+    padding: 35px 20px;
+    text-align: center;
+    border-radius: 5px;
+    background: rgba(19, 170, 230, 0.9);
+    color: white;
+}
+.cn-three p{
+    margin-top: 13px;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+.form{
+	width: 300px;
+    height: 40px;
+    padding: 0px 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: none;}
+.two-btn{
+	margin-top: 51px;
+    width: 300px;
+    height: 45px;
+    border-radius: 10px;
+    background: rgb(2, 105, 146);
+    color: white;
+    border: none;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
